@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = mcordes.mam2021@london.edu
+	name = Marie Cordes
